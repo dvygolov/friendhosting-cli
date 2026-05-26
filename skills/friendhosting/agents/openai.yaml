@@ -1,0 +1,4 @@
+interface:
+  display_name: "Friendhosting"
+  short_description: "Operate Friendhosting services through the public CLI/API."
+  default_prompt: "Use Friendhosting to inspect balance, tariffs, orders, or run explicit service actions via the CLI."
